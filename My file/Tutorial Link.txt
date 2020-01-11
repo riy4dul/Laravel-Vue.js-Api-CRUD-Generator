@@ -1,0 +1,8 @@
+================Laravel CRUD Generator=================
+https://www.youtube.com/watch?v=GqfZjo5P46A
+https://devlob.com/blog/laravel-crud-generator-from-scratch
+
+
+
+https://medium.com/@devlob/laravel-crud-generators-614caddf8bea
+https://libraries.io/github/t73biz/laravel-crud-generator
